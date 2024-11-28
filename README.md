@@ -1,1 +1,1 @@
-# mongo-streaming-database
+# Musing streaming database using MongoDB
